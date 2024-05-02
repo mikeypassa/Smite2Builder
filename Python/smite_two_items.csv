@@ -1,0 +1,318 @@
+Name-Amanita Charm,
+	Price-2750,
+	PhysD-45,
+	MaxH-250,
+	Active-Create a Mushroom that Heals allied gods within 6.4m for 5% HP every 1s. Lasts for 5s. Cooldown: 60s.
+Name-Atalanta's Bow,
+	Price-2750,
+	Str-30,
+	AtkSpd-30%,
+	Passive-When you hit an enemy god with a basic attack you gain 5% reduced Basic Attack Movement Penalty for 4s. Stacks up to 4 times.
+Name-Avatar's Parashu,
+	Price-2900,
+	Str-55,
+	Active-You gain 20% increased Strfor 10s. Cooldown: 180s.
+Name-Bagua Mirror,
+	Price-2450,
+	MagD-85,
+	Passive-When you take Magical Damage you gain 15 + 1*Level Str and 20 + 2*Level Int for 6s.
+Name-Balor's Eye,
+	Price-2400,
+	Int-20,
+	MaxM-250,
+	MagP-25%
+Name-Baneful Rapier,
+	Price-2400,
+	Str-20,
+	Crt-20%,
+	Passive-When you Critically Strike an enemy god you gain 15% AtkSpd for 4s.
+Name-Bindings of Lyngvi,
+	Price-2300,
+	PhysD-30,
+	MagD-40,
+	Passive-Enemy gods hit by your Hard CC effects lose 15 PhysD and 15 MagD for 4s.
+Name-Blinking Amulet,
+	Price-2550,
+	MaxH-200,
+	Cdr-7,
+	Mvmt-5%,
+	Active-You are Teleported to the targeted location. Cooldown: 180s.
+Name-Blood Bound Book,
+	Price-2675g,
+	Int-60,
+	LifeS-20%,
+	Passive-When you drop below 30% HP you gain a 10% of your max HP + 50% Int HP Shield for 6s. Cooldown: 90s.
+Name-Blood Forged Blade,
+	Price-2600,
+	Str-40,
+	LifeS-17.5%,
+	Active-You gain a 10% of your max HP + 100% Str HP Shield for 6s. Cooldown: 90s.
+Name-Bragi's Harp,
+	Price-3000,
+	Str-30,
+	Int-35,
+	AtkSpd-20%,
+	Passive-All targets hit by your basic attacks take 5 + 2 per level bonus Magical Damage.
+Name-Brawler's Ruin,
+	Price-2450,
+	Str-50,
+	ManaR-5,
+	Passive-Enemy gods hit by your basic attacks have 40% reduced healing for 4s.
+Name-Chronos' Pendant,
+	Price-2500,
+	Int-45,
+	Cdr-25,
+	Passive-Your Active ability Cooldowns are reduced by 1s every 10s.
+Name-Dagger of Frenzy,
+	Price-2900,
+	Str-30,
+	AtkSpd-17.5%,
+	Active-You gain 60 Basic Attack Damage and 30% AtkSpd for 6s. Cooldown: 50s.
+Name-Deathbringer,
+	Price-2950,
+	Str-30,
+	Crt-20%,
+	Passive-You gain 25% increased Critical Strike Damage. 
+Name-Death Metal,
+	Price-2550,
+	Str-20,
+	Int-25,
+	Crt-17.5%,
+	Active-You and allied gods within 6.4m gain 15 + 1*Level Str, 20 + 2*Level Int, and 20% AtkSpd for 6s. Cooldown: 60s.
+Name-Divine Ruin,
+	Price-2650,
+	Int-70,
+	MaxM-300,
+	ManaR-2,
+	Passive-Enemy gods hit by your abilities have 40% reduced healing for 4s.
+Name-Dreamer's Idol,
+	Price-2850,
+	Int-85,
+	Active-You gain 20% increased Int for 10s. Cooldown: 180s.
+Name-Eldritch Orb,
+	Price-2850,
+	Int-145
+Name-Eye of Providence,
+	Price-2350,
+	PhysD-20,
+	MagD-25,
+	MaxH-200,
+	Cdr-10,
+	Active- Create a ward that Reveals enemies and enemy wards within 10.4m. Lasts for 60s. Cooldown 120s.
+Name-Eye of the Storm,
+	Price-2700,
+	Str-25,
+	PhysD-20,
+	MagD-30,
+	MaxH-225
+Name-Gem of Focus,
+	Price-2775g,
+	Int-45,
+	Cdr-20,
+	Passive-When you use an ability you gain 15 Int and 3% Mvmt for 10s. Stacks up to 3 times.
+Name-Gem of Isolation,
+	Price-2400,
+	MaxH-225,
+	MaxM-175,
+	Passive-Enemy gods hit by your abilities are affected by a 15% Slow for 2s.,
+	Int-40
+Name-Hand of The Abyss,
+	Price-2425g,
+	Int-50,
+	AtkSpd-22.5%,
+	Passive-When you hit an enemy god or jungle boss with an ability you gain 15 Basic Attack Damage for 6s. Stacks up to 3 times.
+Name-Helm of Darkness,
+	Price-2525g,
+	Int-50,
+	MagD-35,
+	Active-You become Stealthed for 6s. Cooldown: 120s.
+Name-Helm of Radiance,
+	Price-2425g,
+	Int-60,
+	PhysD-25,
+	Passive-When you take Physical Damage you gain 10 PhysD for 6s. Stacks up to 5 times. 
+Name-Hussar's Wings,
+	Price-2350,
+	PhysD-45,
+	MagD-30,
+	Active-You are Cleansed of all Slows, gain Slow Immunity, and 10% Mvmt for 6s. Cooldown: 30s.
+Name-Hydra's Lament,
+	Price-2450,
+	Str-45,
+	MaxM-225,
+	ManaR-4,
+	Passive-When you use an ability you gain 30% increased Basic Attack Damage on your next basic attack for 8s.
+Name-Jade Scepter,
+	Price-2900,
+	Int-85,
+	MaxM-225,
+	ManaR-4,
+	Active-Enemy gods in front of you are Displaced up and away from you. Cooldown: 90s.
+Name-Jotunn's Revenge,
+	Price-2800,
+	Str-45,
+	Cdr-20,
+	Passive-When you get a Kill or Assist on an enemy god your Non ultimate Cooldowns are reduced by 2s and your Ultimate Cooldown is reduced by 6s.
+Name-Leviathan's Hide,
+	Price-2650,
+	PhysD-65,
+	Passive-Enemies who hit you with basic attacks lose 5% Str for 4s. Stacks up to 3 times.
+Name-The Dagda's Greatclub,
+	Price-2900,
+	Str-20,
+	MaxH-175,
+	Cdr-20,
+	Passive-Enemies hit by your abilities take 15 + 30% of your Item Protections as bonus Physical Damage. This effect only triggers once per ability per god.
+Name-Meteor Hammer,
+	Price-2900,
+	Str-20,
+	MaxH-225,
+	AtkSpd-15%,
+	Passive-Enemies within 2.5m of your basic attack target take 15 + 12.5% of your Item Protections as bonus Physical Damage
+Name-Musashi's Dual Swords,
+	Price-2450,
+	Str-20,
+	Crt-20%,
+	Passive-When you Critically Strike an enemy god you gain 10% Mvmt for 4s.
+Name-Necronomicon,
+	Price-2825g,
+	Int-45,
+	Cdr-20,
+	Passive-When you get a Kill or Assist on an enemy god you gain 1 stack of 50 Int but you also lose 20 PhysD and 20 MagD per stack. Stacks up to 3 times. All stacks are removed on your death.
+Name-Obsidian Shredder,
+	Price-2950,
+	Str-45,
+	Passive-Enemy gods hit by your abilities lose 1 per level PhysD for 4s.
+Name-Phantom Ring,
+	Price-2400,
+	MaxH-300,
+	Cdr-25,
+	Active-You and allied gods within 6.4m become Immune to Impediments, allowing you to walk through player made walls for 6s. Cooldown: 60s
+Name-Pharaoh's Curse,
+	Price-2400,
+	PhysD-45,
+	Cdr-10,
+	Active-Enemies within 5.6m are affected by a 25% Slow and have 25% reduced AtkSpd for 6s. Cooldown: 40s.
+Name-Phoenix Feather,
+	Price-2650,
+	MagD-55,
+	MaxH-250,
+	Active-You are Healed for 300 HP + 30% of your Missing HP. Cooldown: 240s.
+Name-Polynomicon,
+	Price-2725g,
+	Int-75,
+	MaxM-200,
+	ManaR-2,
+	Passive-When you use an ability you gain 30% of your Int as bonus Magical Damage on your next basic attack.
+Name-Qin's Blade,
+	Price-2950,
+	Str-30,
+	AtkSpd-17.5%,
+	Passive-Enemy gods hit by your basic attacks take 6% of their max HP as bonus Physical Damage.
+Name-Ruinous Ankh,
+	Price-2500,
+	PhysD-20,
+	MagD-26,
+	MaxH-250,
+	MaxM-150,
+	Passive-Enemies within 8.8m have 40% reduced healing.
+Name-Scepter of Dominion,
+	Price-2400,
+	Int-15,
+	Cdr-10,
+	Active-After 2s an area is created causing any gods that enter into it or are already within it to become affected by Stasis. Lasts for 2s. Cooldown: 240s.
+Name-Screeching Gargoyle,
+	Price-2200,
+	MagD-55,
+	Cdr-10,
+	Active-Enemy gods in front of you are Silenced for 2s. Cooldown: 90s.
+Name-Serpent Spear,
+	Price-2650,
+	Str-15,
+	MaxM-175,
+	PhysP-30%
+Name-Shogun's Ofuda,
+	Price-2300,
+	MagD-60,
+	Passive-You and allies within 8.8m gain 20% AtkSpd.
+Name-Silken Mailcoat,
+	Price-2250,
+	PhysD-50,
+	Passive-Enemies within 8.8m lose 20% AtkSpd and 20% Critical Strike Chance.
+Name-Soul Devourer,
+	Price-2850,
+	Int-65,
+	MaxM-250,
+	ManaR-4,
+	Passive-Enemy gods hit by your abilities take 15% of their Current HP as bonus Magical Damage over 4s. This effect only triggers once per ability per god.
+Name-The Cosmic Horror,
+	Price-2925g,
+	Int-125,
+	MaxM-150,
+	ManaR-2,
+	Passive-If you have more than 225 Item Int you gain 15 Cdr.
+Name-Stampede,
+	Price-2600,
+	PhysD-35,
+	MaxH-325,
+	Active-You and allied gods within 6.4m gain 25% Mvmt for 4s. Cooldown: 180s.
+Name-Sun Beam Bow,
+	Price-2550,
+	Str-55,
+	AtkSpd-17.5%
+Name-Emblem of Namaka,
+	Price-2250,
+	MaxH-300,
+	Cdr-20,
+	Active-You and allied gods within 6.4m gain a 100 + 12*Level HP Shield for 4s. Cooldown: 60s
+Name-Talisman Of Purification,
+	Price-2550,
+	MagD-30,
+	MaxH-250,
+	Active-You and allied gods within 6.4m are Cleansed of all CC and gain CC Immunity for 1s. Cooldown: 180s.
+Name-Tekko Kagi,
+	Price-2800,
+	Str-50,
+	Cdr-10,
+	Passive-When you use an ability you gain 3% Mvmt and 5 Cdr for 10s. Stacks up to 3 times.
+Name-The Executioner,
+	Price-2700,
+	Str-10,
+	AtkSpd-12.5%,
+	Passive-When you damage an enemy god or jungle boss with a basic attack, gain 10% PhysP for 4s. Stacks up to 5 times.
+Name-The Nemes,
+	Price-2300,
+	MaxH-250,
+	MaxM-150,
+	Passive-When you get an Assist on a lane minion you gain 1 stack of 1 PhysD and 1 MagD. Stacks up to 40 times. 
+Name-The Reaper,
+	Price-2900,
+	Str-45,
+	LifeS-15%,
+	Passive-When you hit an enemy god below 50% HP, you gain 15% LifeS for 4s.
+Name-The World Stone,
+	Price-2600,
+	Int-95,
+	Passive-Your Ultimate Cooldown is reduced by 20%.
+Name-Totem of Death,
+	Price-2950,
+	Int-20,
+	Cdr-15,
+	Passive-When you hit an enemy god or jungle boss with an ability, gain 10% MagP for 4s. Stacks up to 5 times.
+Name-Triton's Conch,
+	Price-2750,
+	Int-55,
+	MaxH-300,
+	MaxM-175,
+	Passive-You and allies within 8.8m gain 7 + 0.5*Level Str and 10 + 1*Level Int.
+Name-Wish Granting Pearl,
+	Price-2500,
+	Int-55,
+	MaxH-250,
+	MaxM-350
+Name-Yogi's Necklace,
+	Price-2700,
+	MaxH-450,
+	MaxM-200,
+	HealthR-8,
+	ManaR-8
